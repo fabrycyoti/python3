@@ -1,3 +1,3 @@
 # python3
-Básico de Python 3 no Linux
+Básico de Python 3 no Linux e Windows
 
